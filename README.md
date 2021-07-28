@@ -24,7 +24,7 @@
 
 ### Instalacja
 
-Zawartość paczki wrzucić do folderu dynamic\pkp\husarz_v4_lite\
+Zawartość paczki wrzucić do folderu dynamic\pkp\husarz_v4\
 Zawartość folderu simdir wrzucamy do głównego folderu MaSzyny
 
 ### Opis
