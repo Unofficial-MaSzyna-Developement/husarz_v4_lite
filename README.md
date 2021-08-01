@@ -18,7 +18,7 @@
 -  **Railworks Austria** - dźwięki
 ----------
 -  **Hirek** - przeniesienie i dostosowanie modelu do MaSzynowych standardów
--  **Piachu** - reskiny 10 husarzy
+-  **Hanys** - repainty
 -  **Mruczący** - poprawki kodu ekranów w kabinie
 -  **PETERSTETER890** - poprawki kabiny, konsultacje i materiały potrzebne do dostosowania modelu
 
